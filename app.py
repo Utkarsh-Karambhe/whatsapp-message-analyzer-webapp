@@ -5,7 +5,7 @@ import helper
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-st.sidebar.title("Whatsapp Chat Analyzer")
+st.sidebar.title("Whatsapp Message Analyzer")
 
 uploaded_file = st.sidebar.file_uploader("Choose a file")
 if uploaded_file is not None:
@@ -77,7 +77,7 @@ if uploaded_file is not None:
         st.pyplot(fig)
 
         if selected_user == 'Overall':
-            st.title('Most Busy Users')
+            st.title('Most Active Users')
             x, new_df = helper.most_busy_user(df)
             fig, ax = plt.subplots()
             col1, col2 = st.columns(2)
