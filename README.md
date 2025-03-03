@@ -42,3 +42,8 @@ To get started with the WhatsApp Message Analyzer, follow the steps below:
 
    ```bash
    git clone https://github.com/Utkarsh-Karambhe/WhatsApp-Message-Analyzer.git
+
+
+2. Export chat from Whatsapp for analysis
+
+3. Upload here in Webapp
