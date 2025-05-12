@@ -9,7 +9,7 @@ The **WhatsApp Message Analyzer** is a web application developed using the power
 - **Message Stats**: View the total number of messages, words, media shared, and links.
 - **Monthly Timeline**: Track message activity over time with a clear, easy-to-read monthly timeline.
 - **Daily Message Trends**: Analyze message activity on a daily basis.
-- **Weekly and Monthly Analysis**: See trends and activity patterns based on days of the week and months of the year .
+- **Weekly and Monthly Analysis**: See trends and activity patterns based on days of the week and months of the year.
 - **Weekly Heatmap**: Visualize the busiest times during the week with a dynamic heatmap.
 - **User Contribution**: Identify who’s contributing the most to the conversation.
 - **Word Cloud**: View the most commonly used words in your chats at a glance.
